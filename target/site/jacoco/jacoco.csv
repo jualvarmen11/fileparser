@@ -1,0 +1,14 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+fileparser,com.parser.config,SPACEFileParser,1,32,1,1,0,5,1,2,0,2
+fileparser,com.parser.config,TABFileParser,1,32,1,1,0,5,1,2,0,2
+fileparser,com.parser.config,PIPELINEFileParser,1,32,1,1,0,5,1,2,0,2
+fileparser,com.parser.config,CSVFileParser,1,32,1,1,0,5,1,2,0,2
+fileparser,com.parser.config.abstractfactory,TABFileParserFactory,0,7,0,0,0,2,0,2,0,2
+fileparser,com.parser.config.abstractfactory,CSVFileParserFactory,0,7,0,0,0,2,0,2,0,2
+fileparser,com.parser.config.abstractfactory,PIPELINEFileParserFactory,0,7,0,0,0,2,0,2,0,2
+fileparser,com.parser.config.abstractfactory,SPACEFileParserFactory,0,7,0,0,0,2,0,2,0,2
+fileparser,com.parser.api,FileParser,0,36,0,0,0,5,0,5,0,5
+fileparser,com.parser.api.impl,FileTokenizerImpl,0,22,0,0,0,4,0,3,0,3
+fileparser,com.parser.api.impl,FileReaderImpl,5,17,0,0,2,4,0,4,0,4
+fileparser,com.parser.fileparser.factory,FileParserFactory,3,3,0,0,1,1,1,1,1,1
+fileparser,com.parser.fileparser,FileParserApp,49,55,4,0,13,8,6,7,4,7

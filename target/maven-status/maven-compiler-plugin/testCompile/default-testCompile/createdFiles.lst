@@ -1,0 +1,14 @@
+com\parser\config\CSVFileParserTest.class
+com\parser\api\FileParserTest$FileParserImpl.class
+com\parser\config\TABFileParserTest.class
+com\parser\config\abstractfactory\PIPELINEFileParserFactoryTest.class
+com\parser\config\abstractfactory\CSVFileParserFactoryTest.class
+com\parser\config\PIPELINEFileParserTest.class
+com\parser\api\abstractfactory\FileParserAbstractFactoryTest.class
+com\parser\fileparser\factory\FileParserFactoryTest.class
+com\parser\api\FileParserTest.class
+com\parser\config\abstractfactory\SPACEFileParserFactoryTest.class
+com\parser\fileparser\FileParserAppTest.class
+com\parser\config\SPACEFileParserTest.class
+com\parser\config\abstractfactory\TABFileParserFactoryTest.class
+com\parser\api\abstractfactory\FileParserAbstractFactoryTest$FileParserAbstractFactoryImpl.class

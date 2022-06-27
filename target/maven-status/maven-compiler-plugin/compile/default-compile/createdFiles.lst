@@ -1,0 +1,16 @@
+com\parser\api\FileTokenizer.class
+com\parser\config\SPACEFileParser.class
+com\parser\config\CSVFileParser.class
+com\parser\config\abstractfactory\TABFileParserFactory.class
+com\parser\config\PIPELINEFileParser.class
+com\parser\api\FileParser.class
+com\parser\fileparser\factory\FileParserFactory.class
+com\parser\config\abstractfactory\CSVFileParserFactory.class
+com\parser\config\abstractfactory\SPACEFileParserFactory.class
+com\parser\api\abstractfactory\FileParserAbstractFactory.class
+com\parser\config\abstractfactory\PIPELINEFileParserFactory.class
+com\parser\fileparser\FileParserApp.class
+com\parser\api\impl\FileReaderImpl.class
+com\parser\api\impl\FileTokenizerImpl.class
+com\parser\api\FileReader.class
+com\parser\config\TABFileParser.class

@@ -1,0 +1,7 @@
+com.parser.api
+com.parser.api.abstractfactory
+com.parser.api.impl
+com.parser.config
+com.parser.config.abstractfactory
+com.parser.fileparser
+com.parser.fileparser.factory

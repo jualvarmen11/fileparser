@@ -1,0 +1,16 @@
+C:\Users\Juanito\OneDrive\Documentos\NetBeansProjects\fileparser\src\main\java\com\parser\api\impl\FileReaderImpl.java
+C:\Users\Juanito\OneDrive\Documentos\NetBeansProjects\fileparser\src\main\java\com\parser\config\PIPELINEFileParser.java
+C:\Users\Juanito\OneDrive\Documentos\NetBeansProjects\fileparser\src\main\java\com\parser\config\abstractfactory\SPACEFileParserFactory.java
+C:\Users\Juanito\OneDrive\Documentos\NetBeansProjects\fileparser\src\main\java\com\parser\api\FileTokenizer.java
+C:\Users\Juanito\OneDrive\Documentos\NetBeansProjects\fileparser\src\main\java\com\parser\config\abstractfactory\TABFileParserFactory.java
+C:\Users\Juanito\OneDrive\Documentos\NetBeansProjects\fileparser\src\main\java\com\parser\api\impl\FileTokenizerImpl.java
+C:\Users\Juanito\OneDrive\Documentos\NetBeansProjects\fileparser\src\main\java\com\parser\config\TABFileParser.java
+C:\Users\Juanito\OneDrive\Documentos\NetBeansProjects\fileparser\src\main\java\com\parser\fileparser\FileParserApp.java
+C:\Users\Juanito\OneDrive\Documentos\NetBeansProjects\fileparser\src\main\java\com\parser\api\abstractfactory\FileParserAbstractFactory.java
+C:\Users\Juanito\OneDrive\Documentos\NetBeansProjects\fileparser\src\main\java\com\parser\config\abstractfactory\PIPELINEFileParserFactory.java
+C:\Users\Juanito\OneDrive\Documentos\NetBeansProjects\fileparser\src\main\java\com\parser\config\abstractfactory\CSVFileParserFactory.java
+C:\Users\Juanito\OneDrive\Documentos\NetBeansProjects\fileparser\src\main\java\com\parser\config\CSVFileParser.java
+C:\Users\Juanito\OneDrive\Documentos\NetBeansProjects\fileparser\src\main\java\com\parser\api\FileParser.java
+C:\Users\Juanito\OneDrive\Documentos\NetBeansProjects\fileparser\src\main\java\com\parser\config\SPACEFileParser.java
+C:\Users\Juanito\OneDrive\Documentos\NetBeansProjects\fileparser\src\main\java\com\parser\api\FileReader.java
+C:\Users\Juanito\OneDrive\Documentos\NetBeansProjects\fileparser\src\main\java\com\parser\fileparser\factory\FileParserFactory.java
